@@ -11,6 +11,7 @@ Demo Video Link: [Smart Printer](https://www.bilibili.com/video/BV1xQ4y137Mc/?sh
 Website ：[Smart Printer](https://www.solvegpt.cn/)
 
 ## Introduction
+
 1. Value : Teacher spent several hours grading repetitive homework each day.
 <img width="1070" alt="image" src="https://github.com/hongshen-zhang/Smart-Printer/assets/51727955/39d7d745-598a-4e76-a66b-307be8c2a98a">
 2. Timing : With the development of AI technology, the accuracy of grading by AI has sharply increased. 
