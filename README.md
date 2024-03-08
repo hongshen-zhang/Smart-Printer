@@ -5,7 +5,7 @@
 Facilitate an entire process, from automatically scan 
 
 ## Resource
-Deck Link：[Smart Printer](https://docs.google.com/presentation/d/112biul8r-p6cwILilqTb5WUsT9FU2Aya/edit?usp=sharing&ouid=102147246522693605617&rtpof=true&sd=true](https://github.com/hongshen-zhang/Smart-Printer/blob/main/smart_printer.pdf)
+Deck Link：[Smart Printer](https://github.com/hongshen-zhang/Smart-Printer/blob/main/smart_printer.pdf)
 
 Demo Video Link: [Smart Printer](https://www.bilibili.com/video/BV1xQ4y137Mc/?share_source=copy_web&vd_source=2402ea50d5e761d0c54f9f9cb8f35a85)
 
